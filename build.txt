@@ -1,0 +1,3 @@
+displayName = Les Amis Modu
+author = Ozan
+version = 0.1

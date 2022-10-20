@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLTjRETmUSViY2SwaTejTMVck1vOjEmuRYaWvs+3j5rq5HOWSOOQcYa/dSM50GkqthgMWJ47VWAuUD+8mlTG/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozang\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LesAmisMod\\LesAmisMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozang\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
